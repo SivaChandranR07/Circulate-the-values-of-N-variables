@@ -31,4 +31,4 @@ def circulate():
 ![OUTPUT](ot4.png)
 
 ## Result:
-this program is used to circulate the n variables
+This program is used to circulate the n variables
