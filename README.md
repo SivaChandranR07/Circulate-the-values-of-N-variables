@@ -12,11 +12,10 @@ get input from the user
 ### Step 3: 
 apply in the formula
 ### Step 4: 
-print the output
-
+print the output.
 ## Program:
 ``` python 
-#Program to circulate N values.
+#Program to circulate N variables.
 #Developed by: Siva Chandran R
 #RegisterNumber:22005531
 def circulate():
@@ -26,9 +25,8 @@ def circulate():
     print("After circulating the values are:",a)
     
   ```  
-
 ## Output:
 ![OUTPUT](ot4.png)
 
 ## Result:
-This program is used to circulate the n variables
+This program is used to circulate the n variables.
