@@ -13,6 +13,13 @@ get input from the user
 apply in the formula
 ### Step 4: 
 print the output.
+
+
+
+
+
+
+
 ## Program:
 ``` python 
 #Program to circulate N variables.
